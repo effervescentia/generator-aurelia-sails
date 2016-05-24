@@ -1,0 +1,10 @@
+{
+  "name": "aurelia-sailsjs-boilerplate-frontend",
+  "version": false,
+  "globalDependencies": {
+    "angular-protractor": "github:DefinitelyTyped/DefinitelyTyped/angular-protractor/angular-protractor.d.ts#24e12a7af994afa2226af70fbfae0adc78736a9e",
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160317120654",
+    "jasmine": "github:DefinitelyTyped/DefinitelyTyped/jasmine/jasmine.d.ts#16cfc9e52eec782859fc91b413e9866640651395",
+    "selenium-webdriver": "github:DefinitelyTyped/DefinitelyTyped/selenium-webdriver/selenium-webdriver.d.ts#24e12a7af994afa2226af70fbfae0adc78736a9e"
+  }
+}

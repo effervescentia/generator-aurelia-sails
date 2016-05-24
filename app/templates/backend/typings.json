@@ -1,0 +1,9 @@
+{
+  "name": "aurelia-sailsjs-boilerplate-backend",
+  "dependencies": {
+    "bluebird": "registry:npm/bluebird#3.3.4+20160515010139"
+  },
+  "globalDependencies": {
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160317120654"
+  }
+}
